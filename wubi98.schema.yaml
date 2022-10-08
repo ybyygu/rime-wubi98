@@ -90,6 +90,10 @@ punctuator:
   import_preset: default
   full_shape:
   half_shape:
+        'a' : [ Å ]
+        'd' : [ °, ℃ ]
+
+
 key_binder:
   import_preset: default
 
